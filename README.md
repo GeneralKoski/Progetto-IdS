@@ -1,6 +1,6 @@
-#Progetto di Ingegneria del Software
+# Progetto di Ingegneria del Software
 
-##Collaboratori:
+## Collaboratori:
 
 * Trajkovski Martin 335566
 * Hoxha Endri
