@@ -12,5 +12,5 @@
 
 #### Orario lezione:
 * Lunedì 8:30-10:30
-* Giovedì 8:30-10:30
-* Venerdì 10:30-12:30
+* Mercoleì 8:30-10:30
+* Giovedì 10:30-12:30
