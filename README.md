@@ -9,3 +9,8 @@
 * Zheng Guoyong
 
 #### Link del corso: https://elly2024.didattica.unipr.it/course/view.php?id=4195
+
+#### Orario lezione:
+* Lunedì 8:30-10:30
+* Giovedì 8:30-10:30
+* Venerdì 10:30-12:30
