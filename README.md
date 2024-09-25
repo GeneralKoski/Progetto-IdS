@@ -8,8 +8,4 @@
 * Botrugno Luigi
 * Zheng Guoyong
 
-<<<<<<< HEAD
 #### Link del corso: https://elly2024.didattica.unipr.it/course/view.php?id=4195
-=======
-### Link del corso: https://elly2024.didattica.unipr.it/course/view.php?id=4195
->>>>>>> refs/remotes/origin/main
