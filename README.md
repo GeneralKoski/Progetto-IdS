@@ -4,7 +4,7 @@
 
 * Trajkovski Martin 335566
 * Hoxha Endri
-* Shuaipii Michelle
+* Shuaipi Michelle
 * Botrugno Luigi
 * Zheng Guoyong
 
