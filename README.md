@@ -5,7 +5,7 @@
 * Trajkovski Martin 335566
 * Hoxha Endri
 * Shuaipi Michelle 338243
-* Botrugno Luigi
+* Botrugno Luigi 330504
 * Zheng Guoyong
 
 #### Link del corso: https://elly2024.didattica.unipr.it/course/view.php?id=4195
